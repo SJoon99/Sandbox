@@ -5,4 +5,4 @@ resources:
   - rook-ceph-operator.yaml
   - rook-ceph-cluster.yaml
   - gpu-operator.yaml
-
+  - jupyter-gpu.yaml
